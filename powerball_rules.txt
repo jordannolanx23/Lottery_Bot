@@ -1,0 +1,7 @@
+Select five numbers from 1 to 69 for the white balls; then select one number from 1 to 26 for the red Powerball. Choose your numbers on a play slip or let the lottery terminal randomly pick your numbers. The Powerball jackpot grows until it is won. Players win a prize by matching one of the 9 Ways to Win.
+
+##Algorithim rules##
+
+##Rule One##
+- Most winning powerballs are in order from least to greatest so the bot will also sort
+the value list with this in mind.
